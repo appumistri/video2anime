@@ -7,3 +7,4 @@ checkpoints/*
 outputs/*
 !outputs/README.md
 .DS_Store
+venv
